@@ -2,7 +2,6 @@
 
 **FocusShield** is a privacy-first, AI-powered calendar assistant designed to reclaim your time. It connects to your Microsoft 365 calendar, analyzes your meeting load and fragmentation, and proactively suggests "Focus Blocks" to ensure you have time for deep work.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=FocusShield+Dashboard)
 
 ## 🚀 Features
 
