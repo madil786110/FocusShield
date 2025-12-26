@@ -1,0 +1,1 @@
+{"version":3,"file":"generator.d.ts","sourceRoot":"","sources":["../../src/fixtures/generator.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,aAAa,EAAE,MAAM,UAAU,CAAC;AAEzC,UAAU,cAAc;IACpB,SAAS,EAAE,IAAI,CAAC;IAChB,IAAI,CAAC,EAAE,MAAM,CAAC;CACjB;AAED,eAAO,MAAM,YAAY,GAAI,MAAM,OAAO,GAAG,MAAM,GAAG,YAAY,EAAE,SAAS,cAAc,KAAG,aAAa,EA8C1G,CAAC"}

@@ -1,0 +1,22 @@
+{
+    "name": "@focusshield/graph-client",
+    "version": "0.1.0",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc -b",
+        "test": "jest",
+        "lint": "eslint src"
+    },
+    "dependencies": {
+        "@microsoft/microsoft-graph-client": "^3.0.7",
+        "isomorphic-fetch": "^3.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.10.0",
+        "@types/isomorphic-fetch": "^0.0.39",
+        "typescript": "^5.3.3",
+        "jest": "^29.7.0",
+        "ts-jest": "^29.1.1"
+    }
+}
